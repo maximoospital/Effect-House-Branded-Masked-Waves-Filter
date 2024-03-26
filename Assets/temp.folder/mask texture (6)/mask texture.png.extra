@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "d98ac744-0f7c-2427-00f3-31b832fceb0a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "mask texture",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\user\\Desktop\\Higienol Filter\\mask texture.png",
+    "compressionType": 2,
+    "quality": 0,
+    "maxResolution": 1024,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false
+  }
+]
